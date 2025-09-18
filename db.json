@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "nfts": [
+  {
+    "id": "#5940724",
+    "image": "../images/avatar-5940724 (1).png",
+    "nft-brand": "Axie Infinty",
+    "nft-name": "Axie #5940724",
+    "opensea-link": "https://app.axieinfinity.com/marketplace/axies/5940724/"
+  },
+  {
+    "id": "2",
+    "image": "https://example.com/image2.png",
+    "nft-brand": "BrandName2",
+    "nft-name": "NFT Name 2",
+    "opensea-link": "https://opensea.io/assets/2"
+  }
+]
 }
