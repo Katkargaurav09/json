@@ -3,23 +3,23 @@
   {
     "id": "#5940724",
     "image": "https://ibb.co/k2NB5p4x",
-    "nft-brand": "Axie Infinty",
-    "nft-name": "Axie #5940724",
-    "opensea-link": "https://app.axieinfinity.com/marketplace/axies/5940724/"
+    "nftBrand": "Axie Infinty",
+    "nftName": "Axie #5940724",
+    "nftUrl": "https://app.axieinfinity.com/marketplace/axies/5940724/"
   },
   {
     "id": "#12134622",
     "image": "https://ibb.co/tMZ5FhFn",
-    "nft-brand": "Axie Infinty",
-    "nft-name": "Axie #12134622",
-    "opensea-link": "https://app.axieinfinity.com/marketplace/axies/12134622/"
+    "nftBrand": "Axie Infinty",
+    "nftName": "Axie #12134622",
+    "nftUrl": "https://app.axieinfinity.com/marketplace/axies/12134622/"
   },
     {
     "id": "#7662670",
     "image": "https://ibb.co/nNS4mc0D",
-    "nft-brand": "Axie Infinty",
-    "nft-name": "Axie #7662670",
-    "opensea-link": "https://app.axieinfinity.com/marketplace/axies/7662670/"
+    "nftBrand": "Axie Infinty",
+    "nftName": "Axie #7662670",
+    "nftUrl": "https://app.axieinfinity.com/marketplace/axies/7662670/"
   }
 ]
 }
